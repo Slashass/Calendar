@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Trading logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#7ef3c8" />
+      <stop offset="1" stop-color="#3ad29a" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="10" fill="#071423" />
+  <g transform="translate(6,6)">
+    <polyline points="2,26 10,18 18,22 30,10 36,16" fill="none" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="2" y="10" fill="#bdebd2" font-family="Inter, Arial" font-size="9" font-weight="700">$</text>
+  </g>
+</svg>
