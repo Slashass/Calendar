@@ -1,4 +1,4 @@
-# Trading — Calendar (copied)
+# Trading — Calendar
 
 This folder is a copy of the project renamed to `trading-calendar`.
 
